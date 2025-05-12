@@ -41,8 +41,8 @@
 
 **PARTICULARS OF NEWLY APPOINTED DIRECTOR:**
 
-Full Name: ________________________ 
-NRIC/Passport No.: ________________________ 
+Full Name: ________________________
+NRIC/Passport No.: ________________________
 Nationality: ________________________
 Date of Birth: ________________________
 Residential Address: ________________________
