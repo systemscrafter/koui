@@ -44,7 +44,6 @@
 Full Name            : ________________________ 
 NRIC/Passport No.    : ________________________ 
 Nationality          : ________________________ 
-                     : ________________________ 
 Date of Birth        : ________________________ 
 Residential Address  : ________________________ 
 Email Address        : ________________________ 
@@ -62,10 +61,10 @@ Signature of New Director
 Date: ___________________
 
 **LODGED BY:**
-Name of Company Secretary: ________________________
-License No.: ________________________
-Contact Number: ________________________
-Email: ________________________
+Name of Company Secretary : ________________________
+License No.               : ________________________
+Contact Number            : ________________________
+Email                     : ________________________
 
 ---
 
@@ -79,11 +78,11 @@ Email: ________________________
 
 **PARTICULARS OF RESIGNING DIRECTOR:**
 
-Full Name: ________________________
-NRIC/Passport No.: ________________________
-Date of Appointment: ________________________
-Date of Resignation: ________________________
-Reason for Resignation: ________________________
+Full Name                  : ________________________
+NRIC/Passport No.          : ________________________
+Date of Appointment        : ________________________
+Date of Resignation        : ________________________
+Reason for Resignation     : ________________________
 
 **DECLARATION BY RESIGNING DIRECTOR:**
 I hereby tender my resignation as director of the above-named company with effect from the date stated above.
