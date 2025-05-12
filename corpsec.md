@@ -41,14 +41,15 @@
 
 **PARTICULARS OF NEWLY APPOINTED DIRECTOR:**
 
-Full Name: ________________________
-NRIC/Passport No.: ________________________
-Nationality: ________________________
-Date of Birth: ________________________
-Residential Address: ________________________
-Email Address: ________________________
-Contact Number: ________________________
-Date of Appointment: ________________________
+Full Name            : ________________________ 
+NRIC/Passport No.    : ________________________ 
+Nationality          : ________________________ 
+                     : ________________________ 
+Date of Birth        : ________________________ 
+Residential Address  : ________________________ 
+Email Address        : ________________________ 
+Contact Number       : ________________________ 
+Date of Appointment  : ________________________ 
 
 **DECLARATION BY DIRECTOR:**
 I hereby consent to act as a director of the above-named company and declare that:
