@@ -56,15 +56,15 @@ I hereby consent to act as a director of the above-named company and declare tha
 - I have no undischarged bankruptcy
 - I have not been convicted of any offence involving fraud or dishonesty
 
-_________________________
-Signature of New Director
-Date: ___________________
+_________________________ 
+Signature of New Director 
+Date: ___________________ 
 
 **LODGED BY:**
-Name of Company Secretary : ________________________
-License No.               : ________________________
-Contact Number            : ________________________
-Email                     : ________________________
+Name of Company Secretary : ________________________ 
+License No.               : ________________________ 
+Contact Number            : ________________________ 
+Email                     : ________________________ 
 
 ---
 
@@ -119,11 +119,11 @@ Email: ________________________
 
 **PARTICULARS OF DIRECTORS:**
 
-| Name | NRIC/Passport | Nationality | Position | Date of Appointment |
-|------|---------------|-------------|----------|---------------------|
-|      |               |             |          |                     |
-|      |               |             |          |                     |
-|      |               |             |          |                     |
+|    Name    | NRIC/Passport | Nationality | Position | Date of Appointment |
+|------------|---------------|-------------|----------|---------------------|
+|            |               |             |          |                     |
+|            |               |             |          |                     |
+|            |               |             |          |                     |
 
 **SHARE CAPITAL DETAILS:**
 
