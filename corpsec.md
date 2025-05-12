@@ -133,11 +133,11 @@ Paid-Up Share Capital: ________________________
 
 **SHAREHOLDER INFORMATION:**
 
-| Name | NRIC/Passport | Address | No. of Shares | Class of Shares | % of Total |
-|------|---------------|---------|---------------|-----------------|------------|
-|      |               |         |               |                 |            |
-|      |               |         |               |                 |            |
-|      |               |         |               |                 |            |
+|    Name    | NRIC/Passport | Address | No. of Shares | Class of Shares | % of Total |
+|------------|---------------|---------|---------------|-----------------|------------|
+|            |               |         |               |                 |            |
+|            |               |         |               |                 |            |
+|            |               |         |               |                 |            |
 
 **BUSINESS OPERATIONS:**
 Principal Business Activities: ________________________
@@ -207,10 +207,11 @@ Resolution Reference: ________________________
 
 **PARTICULARS OF ALLOTTEES:**
 
-| Name | NRIC/Passport | Address | No. of Shares | Class of Shares |
-|------|---------------|---------|---------------|-----------------|
-|      |               |         |               |                 |
-|      |               |         |               |                 |
+|    Name    | NRIC/Passport | Address | No. of Shares | Class of Shares | % of Total |
+|------------|---------------|---------|---------------|-----------------|------------|
+|            |               |         |               |                 |            |
+|            |               |         |               |                 |            |
+|            |               |         |               |                 |            |
 
 **SHARE CAPITAL AFTER ALLOTMENT:**
 
